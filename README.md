@@ -1,4 +1,4 @@
-Contributor Covenant
+Community Covenant
 ====================
 
 A code of conduct for online communities.
