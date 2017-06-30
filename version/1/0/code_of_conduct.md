@@ -48,7 +48,7 @@ If you are being harassed by a member of our community, notice that someone else
 
 The admin team will respond to any complaint as promptly as possible we can. If you do not get a timely response (for example, if no admins are currently online) then please put your personal safety and well-being first, and consider logging out and/or contacting the admins by email at [EMAIL ADDRESS HERE].
 
-This code of conduct applies to our community's spaces, but if you are being harassed by a member of our community outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by our members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from the community based on their past behavior, including behavior outside of our spaces and behavior towards people who are not in this slack.
+This code of conduct applies to our community's spaces, but if you are being harassed by a member of our community outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by our members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from the community based on their past behavior, including behavior outside of our spaces and behavior towards people who are not in this community.
 
 In order to protect volunteers from abuse and burnout, we reserve the right to reject any report we believe to have been made in bad faith. Reports intended to silence legitimate criticism may be deleted without response.
 
@@ -66,6 +66,6 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 This Code of Conduct is adapted from the Community Covenant (http://community-covenant.net), version 1.0, available at http://community-covenant.net/version/1/0/. The Community Covenant is an open source effort and is built on codes of conduct that came before it, including the Contributor Covenant (http://contributor-covenant.org/) and the LGBTQ in Tech community code of conduct (http://lgbtq.technology/coc.html).
 
-## License 
+## License
 
 Community Covenant by Coraline Ada Ehmke is licensed under a Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/). Based on a work at http://community-covenant.net/.
