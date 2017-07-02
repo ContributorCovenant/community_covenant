@@ -38,7 +38,7 @@ This community will not tolerate harassment of any kind. Examples of harassment 
 * Continued one-on-one communication after requests to cease.
 * Deliberate "outing" of any aspect of a person's identity without their consent except as necessary to protect vulnerable people from intentional abuse.
 * Publication of non-harassing private communication.
-* Jokes that resemble the above, such as 'hipster racism', still count as harassment even if meant satirically or ironically.
+* Jokes that resemble the above, such as "hipster racism", still count as harassment even if meant satirically or ironically.
 
 If you have questions or concerns about these issues please feel free to message an admin or ask for an opportunity to explore the issue with a moderator and volunteers.
 
